@@ -12,6 +12,16 @@ Modular visual interface for GDB in Python
 x install gdb-dashboard
 ```
 
+## OpenSSF Scorecard 评分
+
+总评分: **2.3 / 10**
+
+评分最低的几项:
+
+- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/cyrus-and/gdb-dashboard>
@@ -30,18 +40,21 @@ x install gdb-dashboard
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 1 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 1 |
 | 360d | 2025-09-15 | 0 | 1 | 0 | 2 | 2 | 3 |
+| last720d | 2024-09-20 | 0 | 1 | 0 | 11 | 3 | 6 |
 
-## OpenSSF Scorecard 评分
+## 发行版状态
 
-总评分: **2.3 / 10**
+在 [repology.org](https://repology.org/project/gdb-dashboard) 上共有 **23** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
 
-评分最低的几项:
-
-- **Pinned-Dependencies** (-1/10) — no dependencies found
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.17.5` | ✅ latest |
+| Nix unstable | `0.17.5` | ✅ latest |
+| Alpine edge | `0.17.4` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -52,4 +65,4 @@ gdb-dashboard 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T15:54:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:19:02Z._
