@@ -18,9 +18,9 @@ Overall score: **2.3 / 10**
 
 Lowest-scoring checks:
 
-- **Pinned-Dependencies** (-1/10) — no dependencies found
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (2/10) — Found 7/26 approved changesets -- score normalized to 2
 
 ## Source
 
@@ -29,7 +29,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,248 · **Forks**: 818 · **Open issues**: 267 · **Contributors**: 22
+- **Stars**: 12,247 · **Forks**: 818 · **Open issues**: 267 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -39,22 +39,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-17 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-18 | 0 | 1 | 0 | 2 | 2 | 3 |
-| last720d | 2024-09-23 | 0 | 1 | 0 | 11 | 3 | 6 |
-
-## Distribution status
-
-Reported by **23** distros on [repology.org](https://repology.org/project/gdb-dashboard). **7** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.17.5` | ✅ latest |
-| Nix unstable | `0.17.5` | ✅ latest |
-| Alpine edge | `0.17.4` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-16 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-18 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-19 | 0 | 1 | 0 | 2 | 2 | 3 |
+| last720d | 2024-09-24 | 0 | 1 | 0 | 11 | 3 | 6 |
 
 ## Improve this data
 
@@ -65,4 +55,4 @@ Install metadata for gdb-dashboard lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T03:32:29Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T03:44:30Z._
