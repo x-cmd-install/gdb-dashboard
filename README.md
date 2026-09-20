@@ -4,7 +4,7 @@
 
 Modular visual interface for GDB in Python
 
-![gdb-dashboard](https://repo.x-cmd.io/gdb-dashboard.svg)
+[![x-cmd/install — gdb-dashboard Code Quality Monitoring Repo Card](https://repo.x-cmd.io/gdb-dashboard.svg)](https://x-cmd.com/install/gdb-dashboard)
 
 ## Install
 
@@ -29,7 +29,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,252 · **Forks**: 818 · **Open issues**: 267 · **Contributors**: 22
+- **Stars**: 12,254 · **Forks**: 818 · **Open issues**: 267 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -39,12 +39,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-23 | 0 | 1 | 0 | 2 | 2 | 3 |
-| last720d | 2024-09-28 | 0 | 1 | 0 | 11 | 3 | 6 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-25 | 0 | 1 | 0 | 2 | 2 | 3 |
+| last720d | 2024-09-30 | 0 | 1 | 0 | 11 | 3 | 6 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for gdb-dashboard lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:31:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:44:51Z._
