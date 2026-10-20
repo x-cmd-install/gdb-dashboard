@@ -29,7 +29,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,274 · **Forks**: 823 · **Open issues**: 267 · **Contributors**: 22
+- **Stars**: 12,275 · **Forks**: 823 · **Open issues**: 267 · **Contributors**: 22
 
 ## Totals (cumulative)
 
@@ -39,12 +39,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 1 | 0 | 0 | 1 |
-| 360d | 2025-10-24 | 0 | 1 | 1 | 2 | 2 | 3 |
-| last720d | 2024-10-29 | 0 | 1 | 1 | 11 | 3 | 6 |
+| 30d | 2026-09-20 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 360d | 2025-10-25 | 0 | 1 | 1 | 2 | 2 | 3 |
+| last720d | 2024-10-30 | 0 | 1 | 1 | 11 | 3 | 6 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for gdb-dashboard lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T03:32:39Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T03:43:08Z._
