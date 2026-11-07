@@ -1,3 +1,25 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: gdb-dashboard
+  binname: gdb-dashboard
+  visiblename: gdb-dashboard
+  version: 0.17.5
+  origversion: 0.17.5-1
+  status: newest
+  summary: Modular visual interface for GDB in Python
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: gdb-dashboard
+  binname: gdb-dashboard
+  visiblename: gdb-dashboard
+  version: 0.17.5
+  origversion: 0.17.5-1
+  status: newest
+  summary: Modular visual interface for GDB in Python
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: gdb-dashboard
@@ -208,28 +230,6 @@
   categories:
     - dev-debug
 - repo: manjaro_stable
-  subrepo: extra
-  srcname: gdb-dashboard
-  binname: gdb-dashboard
-  visiblename: gdb-dashboard
-  version: 0.16.0
-  origversion: 0.16.0-1
-  status: outdated
-  summary: Modular visual interface for GDB in Python
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: gdb-dashboard
-  binname: gdb-dashboard
-  visiblename: gdb-dashboard
-  version: 0.16.0
-  origversion: 0.16.0-1
-  status: outdated
-  summary: Modular visual interface for GDB in Python
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: gdb-dashboard
   binname: gdb-dashboard
